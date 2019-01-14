@@ -1,2 +1,4 @@
 # Hello-World
-Just andother repository
+
+Starting a new journey into the world of how computers behave.
+
